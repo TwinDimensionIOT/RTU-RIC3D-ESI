@@ -15,3 +15,17 @@ El equipo posee las sigueintes interfaces fisicas
 Comunicaciones por modem 4G, con dual simcard, comunicacion utilizando protocolo IEC60870-5-104
 
 Posibilidad de enviar alarmas y recibir comandos pr SMS
+
+Visite nuestro canal de youTube para vero los videos explicativos
+
+- Conexionado
+https://www.youtube.com/watch?v=EXu5DQl76c0
+
+- Maestro MODBUS
+https://www.youtube.com/watch?v=XQtrmvagZ-Q
+
+- Entradas Digitales
+https://www.youtube.com/watch?v=SwFSqcldDDY
+
+- Entradas analógicas
+https://www.youtube.com/watch?v=Ig7iVW01KXc
